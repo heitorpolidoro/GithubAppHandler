@@ -7,6 +7,8 @@ A handler helper to create GitHub App easily
 <br>
 [![Latest Version](https://img.shields.io/github/v/release/heitorpolidoro/github-app-handler?label=Latest%20Version)](https://github.com/heitorpolidoro/github-app-handler/releases/latest)
 ![GitHub Release Date](https://img.shields.io/github/release-date/heitorpolidoro/github-app-handler)
+[![Documentation Status](https://readthedocs.org/projects/github-app-handler/badge/?version=latest)](https://github-app-handler.readthedocs.io/en/latest/?badge=latest)
+<br>
 ![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/heitorpolidoro/github-app-handler/latest)
 ![GitHub last commit](https://img.shields.io/github/last-commit/heitorpolidoro/github-app-handler)
 <br>

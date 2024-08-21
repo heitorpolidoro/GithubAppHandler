@@ -1,0 +1,7 @@
+sphinx==7.3.7
+myst_parser==3.0.1
+sphinx-autodoc2==0.5.0
+github-app-handler==0.28.4
+
+sphinx_rtd_theme==2.0.0
+readthedocs-sphinx-search==0.3.2
